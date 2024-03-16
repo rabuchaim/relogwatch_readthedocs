@@ -11,7 +11,7 @@
 
 .. raw:: html
 
-   <div align="center"><a class="center" href="https://relogwatch.readthedocs.io/en/latest/">English Version Available - https://relogwatch.readthedocs.io/en/latest/</a></div><br>
+   <div align="center"><a class="center" href="https://relogwatch-en.readthedocs.io/">English Version Available - https://relogwatch-en.readthedocs.io/</a></div><br>
 
 .. attention:: Nem todas as repetições de linhas de log geradas por um mesmo endereço IP devem ser consideradas como **abuso**, mas todos os **abusos** são repetições de linhas de log geradas por um mesmo endereço IP.
 
