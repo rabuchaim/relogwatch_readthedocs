@@ -35,10 +35,12 @@ Documentação do relogWatch v1.5.0
    configuration
    faq
 
+Suporte da comunidade: https://github.com/rabuchaim/relogwatch/issues
 |br|
 |br|
+Com 25 anos de experiência em Linux/Unix, presto serviço de suporte profissional e personalizado do estudo, testes, até o pós-implantação do relogWatch no seu ambiente. Se desejar, pode agendar uma vídeo conferência sem custo algum para tirar suas dúvidas se o relogWatch atende suas necessidades. Meu contato é ricardoabuchaim@gmail.com, falo Português (BR) e Inglês e estou no fuso horário GMT-3.
 |br|
 |br|
 
-:Author: Ricardo Abuchaim - ricardoabuchaim@gmail.com
+:Author: Ricardo Abuchaim
 :Version: 1.5.0 - **Release**: 2024/03/20
