@@ -13,7 +13,9 @@
 
    <div align="center"><a class="center" href="https://relogwatch-en.readthedocs.io/">English Version Available - https://relogwatch-en.readthedocs.io/</a></div><br>
 
-.. attention:: Nem todas as repetições de linhas de log geradas por um mesmo endereço IP devem ser consideradas como **abuso**, mas todos os **abusos** são repetições de linhas de log geradas por um mesmo endereço IP.
+.. admonition:: Monitoramento Reativo de Abuso em Serviços na Internet
+
+   Nem todas as repetições de linhas de log geradas por um mesmo endereço IP devem ser consideradas como **abuso**, mas todos os **abusos** são repetições de linhas de log geradas por um mesmo endereço IP.
 
    .. **Como podemos afirmar se está ou não ocorrendo abuso em um serviço?** 
    .. Abuso são repetições em linhas de log a partir de um mesmo endereço. Um alto número de autenticações com falha a partir de um único endereço IP é um abuso que pode indicar uma tentative de descoberta de senha por tentativa e erro, o conhecido "brute force attack". Mas também pode indicar uma aplicação esquecida no ambiente com uma senha desatualizada.
