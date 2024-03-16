@@ -8,7 +8,7 @@ build:
     python: "3.11"
 
 sphinx:
-  configuration: docs/pt-br/source/conf.py
+  configuration: docs/en/source/conf.py
   builder: html
 
 python:
